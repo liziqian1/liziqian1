@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**liziqian1/liziqian1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I’m a student in a primary school in China
+- I'm 11 now
+- My website: https://liziqian.net
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### I can
+- HTML, CSS
+- C++, Python
+#### How can you contact me
+- [Email](mailto:liziqian99@gmail.com)
+- Tencent QQ: 1073131581
+- Discord: liziqian#2697
