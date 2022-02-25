@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- I’m a student in a primary school in China
-- I'm 12 years old now
+- I’m a student in a secondary school in China
+- I'm 13 years old now
 - My website: https://liziqian.net
 
 #### I can
