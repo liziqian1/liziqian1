@@ -9,5 +9,5 @@
 - C++, Python
 #### How can you contact me
 - [Email](mailto:liziqian99@gmail.com)
-- Tencent QQ: 1073131581
+- Telegram: [@liziqian](https://t.me/liziqian)
 - Discord: liziqian#2697
